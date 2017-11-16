@@ -1,0 +1,10 @@
+Chcia³bym spróbowaæ stworzyæ coœ inspirowanego portalem.
+Gracz powinien posiadaæ coœ na zasadzie portal-guna, jednym przyciskiem myszy tworzy wejœcie, drugim wyjœciem, tak jak w oryginale.
+Dodatkowo okreœlenie powierzchni na jakiem mo¿na tworzyæ portale.
+
+Najtrudniejszym elementem bêdzie napisanie skryptu do portali, aby zawsze dzia³a³ i znosi³ eksprymenty gracza.
+Do tego oczywiœcie projekt poziomu i postaci.
+
+W projekcie musi siê znaleŸæ:
+- grywalna postaæ z dzia³aj¹cym portal gunem (20 godzin)
+- zaprojektowany poziom z prostymi zagadkami logicznymi (25 godzin)
