@@ -22,3 +22,6 @@ Gracz nie ma jako takiego życia, jedynym ograniczeniem jest ilość dostępnych
 * Unity
 * Gimp
 
+## Refki
+![VVVVVV](http://cdn.edgecast.steamstatic.com/steam/apps/70300/ss_254f8c5bceb8dbe1f10ada55045fb7c2e7bdd034.1920x1080.jpg?t=1478255501)
+![Portal 2D](http://portal.wecreatestuff.com/p3.jpg)
