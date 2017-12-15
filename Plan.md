@@ -1,4 +1,4 @@
-# Portal dla ubogich ( ͡° ͜ʖ ͡°) _(tytuł roboczy)_
+# Portal dla ubogich ᕦ( ͡° ͜ʖ ͡°)ᕤ _(tytuł roboczy)_
 Chciałbym spróbować stworzyć coś inspirowanego portalem.
 Gracz powinien posiadać coś na zasadzie portal-guna, jednym przyciskiem myszy tworzy wejście, drugim wyjściem, tak jak w oryginale.
 Może poruszać się tylko w lewo i w prawo, bez możliwości skoku.
